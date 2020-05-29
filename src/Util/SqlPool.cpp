@@ -18,7 +18,7 @@ using namespace std;
 
 namespace toolkit {
 
-INSTANCE_IMP(SqlPool);
+INSTANCE_IMP(SQLinstance);
 
 } /* namespace toolkit */
 
